@@ -1,6 +1,6 @@
 ## Abstract
 
-![alt text](https://www.start.umd.edu/gtd/images/START_GlobalTerrorismDatabase_TerroristAttacksConcentrationIntensityMap_45Years.png)
+![alt text](https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/11/PRI_98764385.jpg?quality=90&strip=all&zoom=1&resize=964%2C562&ssl=1)
 
 Since the amount of terrorist attacks has dramatically increased over the past few decades, we were interested in figuring out which attributes of an attack would help predict casualities. Specifically, we wanted to predict the amount of total injuries/deaths for various attacks. Not surprisingly, explosives, bombs and dynamite were found to be among the most lethal types of weapons used. In addition, the type of institutions targeted (military and religious) gave an indication of how devastating an attack would be. What was surprising to us was that East Asia was the region where the most catastrophic events are bound to occur. 
 
